@@ -1,1 +1,1 @@
-# golfhacks-github.io
+# golfhacks.github.io
